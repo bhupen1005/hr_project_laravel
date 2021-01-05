@@ -1,0 +1,24 @@
+.photo{
+    width:70px;
+}
+
+.user_page{
+    border-radius: 50px;
+    width:200px;
+}
+
+form .alert{
+    padding: 10px !important;
+    margin-top: 10px;
+}
+
+.status {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+i{
+    margin:0 5px;
+}
